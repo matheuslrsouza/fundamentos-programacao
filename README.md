@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=VfVFFpk93Ew&list=PL2IkHAGy76GAHeWjlqYRaRfd1z-Hsj
     * [Artigo](https://imasters.com.br/desenvolvimento/conhecendo-web-por-debaixo-dos-panos)
     * [Alura](https://www.alura.com.br/curso-online-http-fundamentos)
 * Servlet e JSP
-    * (Caelum)[https://www.caelum.com.br/apostila-java-web]
+    * [Caelum](https://www.caelum.com.br/apostila-java-web)
 * Spring Core
 * Spring Boot
 
